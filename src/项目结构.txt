@@ -1,0 +1,17 @@
+expert-draw-system/
+├── index.html         # 主页面
+├── css/
+│   ├── style.css      # 主样式文件
+│   └── modal.css      # 模态框样式
+├── js/
+│   ├── main.js        # 主逻辑
+│   ├── expert.js      # 专家管理模块
+│   ├── draw.js        # 抽签模块
+│   ├── utils.js       # 工具函数
+│   └── modal.js       # 模态框组件
+├── data/
+│   └── experts.json   # 专家数据存储
+└── assets/            # 外部资源
+     ├──  js/          #外部js库
+     ├── webfonts/     #外部字体库
+     └── css/          #外部css库
